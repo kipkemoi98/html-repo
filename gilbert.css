@@ -1,0 +1,102 @@
+.val{
+    display: flex;
+    flex-direction: row;
+    border: solid blue;
+
+}
+.h{
+    margin: auto;
+}
+.g{
+    display: flex;
+    flex-direction: row;
+    border: solid green;
+}
+.e{
+    margin: auto;
+
+}
+.p{
+    display: flex;
+    flex-direction: row;
+    border: solid red;
+
+}
+.f{
+margin: auto;
+
+}
+#t{
+    font-size: 36px;
+    color: blue;
+    margin: 30px;
+}
+.m{
+    align-items: center;
+    text-align: center;
+
+}
+.q{
+    display: flex;
+    flex-direction: row;
+}
+.j{
+    margin: auto;
+    font-size: medium;
+    font-display: row;
+}
+.b{
+    display: flex;
+    flex-direction: row;
+}
+.v{
+    margin: auto;
+    flex-direction: row;
+}
+#w{
+    font-size: 36px;
+    color: blue;
+    flex-direction: row;
+}
+.sales{
+    display: flex;
+    flex-direction: row;
+}
+.r{
+    margin: auto;
+}
+.c{
+    display: flex;
+    flex-direction: row;
+    border: solid yellow;
+} 
+.r{
+    margin: auto;
+    width: auto;
+}
+.s{
+    display: flex;
+    border: solid white;
+    background-color: blue;
+    color: white;
+}
+.z{
+    margin: auto;
+}
+.x{
+    display: flex;
+    flex-direction: row;
+    border: solid;
+}
+
+.i{
+    margin: auto;
+}
+.l{
+    font-size: medium;
+    font-weight: 500;
+    font-style: normal;
+}
+.o{
+    
+}
