@@ -28,14 +28,12 @@
 .p{
     display: flex;
     flex-direction: row;
-    border: solid red;
 
 }
 .f{
     margin: auto;
     display: flex;
     flex-direction: row;
-    border: solid blue;
 
 }
 #t{
@@ -110,6 +108,9 @@
 .checkbox{
     flex-direction: row;
     float: left;
+    display: flex;
+    flex-direction: row;
+    border: solid red;
 }
 .body{
     background-color: #fafafa;
