@@ -106,7 +106,7 @@
     font-style: normal;
 }
 .checkbox{
-    flex-direction: row;
+    flex-direction: column;
     float: left;
     display: flex;
     flex-direction: row;
