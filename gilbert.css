@@ -13,7 +13,11 @@
     border: solid green;
 }
 .e{
-    margin: auto;
+    width: 250px;
+    height: 250px;
+    flex-direction: row;
+    flex: content;
+
 
 }
 .p{
