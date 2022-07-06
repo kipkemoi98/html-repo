@@ -6,6 +6,7 @@
 }
 .h{
     margin: auto;
+    font-style: italic;
 }
 .g{
     display: flex;
@@ -13,10 +14,8 @@
     border: solid green;
 }
 .e{
-    width: 250px;
-    height: 250px;
     flex-direction: row;
-    flex: content;
+    box-sizing: border-box;
 
 
 }
@@ -46,8 +45,6 @@ margin: auto;
 }
 .j{
     margin: auto;
-    font-size: medium;
-    font-display: row;
 }
 .b{
     display: flex;
@@ -90,7 +87,6 @@ margin: auto;
 .x{
     display: flex;
     flex-direction: row;
-    border: solid;
 }
 
 .i{
@@ -100,4 +96,8 @@ margin: auto;
     font-size: medium;
     font-weight: 500px;
     font-style: normal;
+}
+.checkbox{
+    flex-direction: row;
+    float: left;
 }
