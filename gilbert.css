@@ -16,8 +16,15 @@
 .e{
     flex-direction: row;
     box-sizing: border-box;
-
-
+    background-color: #163d8b;
+}
+.e>img{
+    width: 500px;
+    height: 400px;
+}
+#image_1{
+    width: 400px;
+    height: 500px;
 }
 .p{
     display: flex;
@@ -87,6 +94,7 @@ margin: auto;
 .x{
     display: flex;
     flex-direction: row;
+    text-align: center;
 }
 
 .i{
@@ -100,4 +108,49 @@ margin: auto;
 .checkbox{
     flex-direction: row;
     float: left;
+}
+.body{
+    background-color: #fafafa;
+   
+}
+.button{
+    color: blue;
+    border-radius: 10px;
+    border: none;
+    height: 20px;
+    width: 20px;
+}
+.get_started_btn{
+    background-color: #2c60d3;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+    width: 150px;
+}
+.search_btn{
+    background-color: #2c60d3;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+    width: 150px;
+    flex-direction: row;
+}
+.smart_house{
+    width: 400px;
+    height: 200px;   
+}
+.addres{
+    width: 40px;
+    height: 2px;   
+}
+.view_more{
+    background-color: #2c60d3;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    height: 40px;
+    width: 150px;
+    flex-direction: row;
 }
